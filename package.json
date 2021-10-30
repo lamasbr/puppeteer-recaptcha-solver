@@ -1,5 +1,5 @@
 {
-  "name": "puppeteer-recaptcha-solver",
+  "name": "nomorecaptcha",
   "version": "1.0.0",
   "license": "MIT",
   "dependencies": {

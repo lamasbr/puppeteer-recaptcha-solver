@@ -71,7 +71,7 @@ utils.args = [
   '--allow-cross-origin-auth-prompt',
   '-–allow-file-access-from-files',
   '--user-agent="' + utils.getUserAgent() + '"',
-  '--lang=en-US,en;q=0.9',
+  '--lang=pt-BR,en;q=0.9',
   '--disk-cache-size=0',
 ];
 
